@@ -15,7 +15,11 @@
 
 * [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
-
+  * Interests: Software Engineering, Video Game Development
+* [Jun Miao]
+   * Contact: junmiao@hawaii.edu
+   * Interests: Software Engineering, Database Management, Mobile App Development
 * [Shinya Saito](https://saitoshi.github.io/)
   * Contact: saitoshi@hawaii.edu
   * Interests: Software Engineering, Mathematical Teaching, Japanese and English Translations, Design
+
