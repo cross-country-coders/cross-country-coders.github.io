@@ -29,6 +29,14 @@ On the bottom there will be a tabbed component with example problems that a moda
 ![](images/admin.png) <br/>
 If the specific user has a role of an admin, they can take a look at the user list that contains the first name, last name, and email but not the password for security purposes.
 
+## MILESTONES
+For each week, milestones were created using GitHub's project <i>kanban</i> such that each person in the team will select on a issue to work on.
+<br/>
+<ol>
+<li><a href="https://github.com/cross-country-coders/cross-country-coders/projects/1">Milestone 1</a></li>
+For Milestone 1, the mock up design for the application was made and after that each person using Meteor, Javascript, and React created the application. Additionally, we also talked about the security features of the application itself. 
+</ol>
+
 ## Team Members
 * [Jerome Gallego](https://alohajerome.github.io/)
   * Contact: gallego6@hawaii.edu
