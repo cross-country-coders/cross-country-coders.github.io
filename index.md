@@ -30,10 +30,10 @@ On the bottom there will be a tabbed component with example problems that a moda
 If the specific user has a role of an admin, they can take a look at the user list that contains the first name, last name, and email but not the password for security purposes.
 
 ## Project 
-Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1">link</a> to the Project Board filled with different issues worked on. 
+Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1">link</a> to the Project Board filled with different issues worked on. <br/>
+<b>Accomplished</b>
 <ol>
- <li> <b>Week 1 (May 24)</b> </li> 
- <b>Accomplished</b> 
+ <li> <b>Week 1 (May 24)</b> </li>
  <ul>
   <li> Creating the GitHub organization repository and web page using GitHub pages. </li>
   <li> Mock Up Design: Creating the different mock up designs for each paage of the application. </li>
