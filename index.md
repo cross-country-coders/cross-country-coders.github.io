@@ -48,7 +48,7 @@ If the specific user has a role of an admin, they can take a look at the user li
 ## Project 
 Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1">link</a> to the Project Board filled with different issues worked on. 
 <ol>
- <li> Week 1 (May 24) </li> 
+ <li> <b>Week 1 (May 24)</b> </li> 
  <b>Accomplished</b> 
  <ul>
   <li> Creating the GitHub organization repository and web page using GitHub pages. </li>
@@ -57,7 +57,7 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
   <li> Creating the different Navigation Bars one for the Landing Page (where the users are not logged in) and the Side Navigation Bar used once logged in. </li>
   <li> Created the Sign in and the Register Page. </li>
  </ul>
- <li> Week 2 (May 31) </li>
+ <li> <b>Week 2 (May 31)</b> </li>
  <ul>
  <li> Created a User Profile Page.</li>
  <li> Created Admin Related pages, such as the User List where the Admin can see each user's first name, last name, email, and profile image. </li>
@@ -67,7 +67,7 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
  </ul>
  <b> Pending </b>
  <ul>
-  <li> Creating the functionalities with the lesson and the landing page.<li>
+  <li> Creating the functionalities with the lesson and the landing page.</li>
   <li> Creating a fully functional Contact Page where the message will be sent to a Json file. </li>
   <li> Create a fully functional Edit Profile Page. </li>
  </ul>
@@ -77,6 +77,7 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
 ## Team Members
 * [Jerome Gallego](https://alohajerome.github.io/)
   * Contact: gallego6@hawaii.edu
+  * Interests: Software Engineering
 
 * [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
