@@ -12,12 +12,28 @@
 The application Algo-Trix provides college or high school students with additional assistance to Algorithms outside of a textbook. It contains a list of different topics with mini explanation and study tips. It will also contain some sample problems and example problems.
 
 * Landing Page
-![](images/landing.png)
+![](images/landing1.png)
 <br/>
-The landing page, the first page that users will see when the visit the website. It will contain all of the topics covered in ICS 311.
+The landing page, is the first page that users will see when the visit the website. It will contain all of the topics covered in ICS 311.
 * Log In Page
-![](images/login.png)
-If a user already has an account they can re-join using the log in page.
+  ![](images/login1.png)
+  If a user already has an account they can re-join using the log in page.
+* Home Page
+  ![](images/home2.png)
+  <br/>
+  This is the home page, it will display all the problems the user can do while logged in.
+* Navbar
+  ![](images/navbar2.png)
+  <br/>
+  This is our navbar to help users find the page they are looking for.
+  ![](images/signout2.png)
+  We also added a 2-step sign out popup.
+* Sign Out Page
+  ![](images/signoutPage1.png)
+  This is our simple sign out page, more will be added in the future.
+* Profile Page
+  ![](images/profile1.png)
+This is our profile page where users can see their progression as well as edit their profile and change their password.
 * Register Page
 ![](images/register.png)
 Otherwise if they do not have an account they can register by using the first name, last name, email, password and optionally an image.
@@ -26,7 +42,7 @@ Otherwise if they do not have an account they can register by using the first na
 The application will contain a brief explanation and some rundown of sample problems for each topic covered in a typical Algorithms course. <br/>
 On the bottom there will be a tabbed component with example problems that a modal page will pop up for solutions.
 * Admin User List
-![](images/admin.png) <br/>
+![](images/userlist1.png) <br/>
 If the specific user has a role of an admin, they can take a look at the user list that contains the first name, last name, and email but not the password for security purposes.
 
 ## Project 
