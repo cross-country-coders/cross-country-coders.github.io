@@ -2,7 +2,7 @@
 <hr>
 <h2> Table Of Contents </h2>
 * [OVERVIEW](#overview)
-* [MILESTONES](#milestones)
+* [PROJECT](#project)
 * [USER GUIDE](#user-guide)
 * [PEER REVIEW](#user-review)
 * [DEVELOPER'S GUIDE](#develop's-guide)
@@ -29,13 +29,34 @@ On the bottom there will be a tabbed component with example problems that a moda
 ![](images/admin.png) <br/>
 If the specific user has a role of an admin, they can take a look at the user list that contains the first name, last name, and email but not the password for security purposes.
 
-## MILESTONES
-For each week, milestones were created using GitHub's project <i>kanban</i> such that each person in the team will select on a issue to work on.
-<br/>
+## Project 
+Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1">link</a> to the Project Board filled with different issues worked on. 
 <ol>
-<li><a href="https://github.com/cross-country-coders/cross-country-coders/projects/1">Milestone 1</a></li>
-For Milestone 1, the mock up design for the application was made and after that each person using Meteor, Javascript, and React created the application. Additionally, we also talked about the security features of the application itself. 
+ <li> Week 1 (May 24) </li> 
+ <b>Accomplished</b> 
+ <ul>
+  <li> Creating the GitHub organization repository and web page using GitHub pages. </li>
+  <li> Mock Up Design: Creating the different mock up designs for each paage of the application. </li>
+  <li> Using Intellij, started making the mockup designs into real Javascript code and creating the collection necessary for UserInfo login.</li>
+  <li> Creating the different Navigation Bars one for the Landing Page (where the users are not logged in) and the Side Navigation Bar used once logged in. </li>
+  <li> Created the Sign in and the Register Page. </li>
+ </ul>
+ <li> Week 2 (May 31) </li>
+ <ul>
+ <li> Created a User Profile Page.</li>
+ <li> Created Admin Related pages, such as the User List where the Admin can see each user's first name, last name, email, and profile image. </li>
+ <li> Making tune ups to the Side Nav Bar in terms of CSS. </li>
+ <li> Created a list of fake but believable users. </li>
+ <li> Created a collection that stores the different possible lessons. </li>
+ </ul>
+ <b> Pending </b>
+ <ul>
+  <li> Creating the functionalities with the lesson and the landing page.<li>
+  <li> Creating a fully functional Contact Page where the message will be sent to a Json file. </li>
+  <li> Create a fully functional Edit Profile Page. </li>
+ </ul>
 </ol>
+ 
 
 ## Team Members
 * [Jerome Gallego](https://alohajerome.github.io/)
