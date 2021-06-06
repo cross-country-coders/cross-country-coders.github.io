@@ -56,7 +56,7 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
   <li> Create a fully functional Edit Profile Page. </li>
  </ul>
 </ol>
- 
+ <br/>
 
 ## Team Members
 * [Jerome Gallego](https://alohajerome.github.io/)
