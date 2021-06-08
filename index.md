@@ -85,7 +85,6 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
 * [Jerome Gallego](https://alohajerome.github.io/)
   * Contact: gallego6@hawaii.edu
   * Interests: Software Engineering
-
 * [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
   * Interests: Software Engineering, Video Game Development
