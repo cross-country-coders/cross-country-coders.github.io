@@ -80,7 +80,7 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
 <li>Then, install meteor in the app folder using this following command: <code>meteor npm install</code></li>
 ![](images/install.png) <br/>
 <li>Then type in <code>meteor npm run start</code> then go to the following link <code> http://localhost:3000</code> to see the application running locally in your computer. </li>
-![](images/install.png) <br/>
+![](images/run.png) <br/>
 </ol>
 
 ## Team Members
