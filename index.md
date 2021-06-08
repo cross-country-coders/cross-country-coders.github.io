@@ -77,9 +77,8 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
 <p> Here is a brief step to step on how to run the application.</p>
 <ol>
 <li>To download the source code please head over to the <a href="https://github.com/cross-country-coders/algo-trix">repository page</a> and download the master branch.</li>
-<li>Then, install meteor in the app folder using this following command: <code>meteor npm install</code></li>
-
-![](images/install.png) <br/>
+<li>Then, install meteor in the app folder using this following command: <code>meteor npm install</code>
+![](images/install.png) <br/></li>
 <li>Then type in <code>meteor npm run start</code> then go to the following link <code> http://localhost:3000</code> to see the application running locally in your computer. </li>
 ![](images/run.png) <br/>
 </ol>
