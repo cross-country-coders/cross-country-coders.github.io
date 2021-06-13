@@ -38,7 +38,7 @@ This is our profile page where users can see their progression as well as edit t
 ![](images/register.png)
 Otherwise if they do not have an account they can register by using the first name, last name, email, password and optionally an image.
 * Problem and Explanation Page
-![](images/problem.png)
+![](images/problem.gif)
 The application will contain a brief explanation and some rundown of sample problems for each topic covered in a typical Algorithms course. <br/>
 On the bottom there will be a tabbed component with example problems that a modal page will pop up for solutions.
 * Admin User List
