@@ -96,6 +96,12 @@ Here it lists all the team members of the Cross Country Coders and the contribut
   * Contact: gallego6@hawaii.edu
   * Interests: Software Engineering
   * New Completion (June 13)  
+    * Created the Profile Page
+    * Created the Mock Up designs for the Contact Page
+  * Current (June 13)
+    * Working on making the Contact Page to be more functional.
+  * Next (June 13)
+    * Finding Problems that might be good on placing to the website. 
     
 * [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
