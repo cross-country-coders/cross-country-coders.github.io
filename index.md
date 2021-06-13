@@ -110,6 +110,7 @@ Here it lists all the team members of the Cross Country Coders and the contribut
     <ul>
     <li>Created the SideNav Bar Component for the Application</li>
     <li>Created the CSS Designs that applies for most of the pages</li>
+    <li>Added 2-click sign out for logged in users</li>
     </ul>
   * Current (June 13)
     <ul>
