@@ -95,6 +95,7 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 * [Jerome Gallego](https://alohajerome.github.io/)
   * Contact: gallego6@hawaii.edu
   * Interests: Software Engineering
+  * New Completion (June 13)  
     
 * [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
@@ -117,7 +118,27 @@ Here it lists all the team members of the Cross Country Coders and the contribut
    * Contact: junmiao@hawaii.edu
    * Interests: Software Engineering, Database Management, Mobile App Development
    * New Completion (June 13):
-    <ul></ul>
+     * Created a stronger faker user generator system.
+     * Created the Login/Register Modal.   
+     *  Fixed the User List Page for Admin to display the user count on the page itself     and the side nav bar
+     *  Fixed the Edit Profile Page into Modal.
+     * Fixed the file and improved up on ESLint errors.
+  * Current (June 13)
+    * Creating the Lesson Pages.
+  * Next (June 13) 
+    * Finding good sample problems to place on the lesson page.
 * [Shinya Saito](https://saitoshi.github.io/)
   * Contact: saitoshi@hawaii.edu
   * Interests: Software Engineering, Mathematical Teaching, Japanese and English Translations, Design
+  * New Completion (June 13)
+    * Created the UserInfo Collection 
+    * Create the Basic User Fake Generator 
+    * Created the Landing Page 
+    * Created the Sorting Algorithm Lesson Page 
+    * Created the Proof Writing Lesson Page 
+    * Created the Rough Contact Page
+    * Created the Home Page when users login
+  * Current (June 13)
+    * Creating the PreReq Material Lesson Pages for Algorithms
+  * Next (June 13)
+    * Creating the Pages for the other lessons and topics covered in Algorithm
