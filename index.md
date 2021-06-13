@@ -47,7 +47,7 @@ If the specific user has a role of an admin, they can take a look at the user li
 
 ## Project
 Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1">link</a> to the Project Board filled with different issues worked on. <br/>
-<b>Accomplished</b>
+<b>Accomplished Progress</b>
 <ol>
  <li> <b>Week 1 (May 24)</b> </li>
  <ul>
@@ -65,13 +65,19 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
  <li> Created a list of fake but believable users. </li>
  <li> Created a collection that stores the different possible lessons. </li>
  </ul>
- <b> Pending </b>
- <ul>
-  <li> Creating the functionalities with the lesson and the landing page.</li>
-  <li> Creating a fully functional Contact Page where the message will be sent to a Json file. </li>
-  <li> Create a fully functional Edit Profile Page. </li>
- </ul>
+<li> <b> Week 3 (June 7)</b></li>
+<ul>
+<li> Created a Model for the Login/Register instead of it havin it as a whole individual page.</li>
+<li> Create a Edit Profile Page </li>
+<li> Created the Sorting Algorithm Pages and the Proof Pages.</li>
+</ul>
 </ol>
+<b>Pending Progress</b>
+<ul>
+<li>Create the other lesson pages filled with topics and recommended videos.</li>
+<li>Update the design of NavBar to have a clean side dropdown option.</li>
+<li>Create a Contact Page that is theoretically functional.</li>
+</ul>
 
 ## Developer's Guide
 <p> Here is a brief step to step on how to run the application.</p>
@@ -83,16 +89,35 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
 <img src="images/run.png"> <br/>
 </ol>
 
-## Team Members
+## Team Members 
+Here it lists all the team members of the Cross Country Coders and the contributions that they have made for this project. 
+
 * [Jerome Gallego](https://alohajerome.github.io/)
   * Contact: gallego6@hawaii.edu
   * Interests: Software Engineering
+    
 * [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
   * Interests: Software Engineering, Video Game Development
+  * New Completion (June 13):
+    <ul>
+    <li>Created the SideNav Bar Component for the Application</li>
+    <li>Created the CSS Designs that applies for most of the pages</li>
+    </ul>
+  * Current (June 13)
+    <ul>
+    <li>Finding practice problems.</li>
+    </ul>
+  * Next (June 13)
+    <ul>
+    <li>Creating a simple level up system</li>
+    </ul>
+    
 * [Jun Miao](https://junm1ao.github.io/)
    * Contact: junmiao@hawaii.edu
    * Interests: Software Engineering, Database Management, Mobile App Development
+   * New Completion (June 13):
+    <ul></ul>
 * [Shinya Saito](https://saitoshi.github.io/)
   * Contact: saitoshi@hawaii.edu
   * Interests: Software Engineering, Mathematical Teaching, Japanese and English Translations, Design
