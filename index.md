@@ -71,6 +71,15 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
 <li> Create a Edit Profile Page </li>
 <li> Created the Sorting Algorithm Pages and the Proof Pages.</li>
 </ul>
+<li><b>Week 4 (June 14)</b></li>
+<ul>
+<li>Created the MST Page</li>
+<li>Created the Single Shortest Path Page</li>
+<li>Created the Basic ADT Page</li>
+<li>Created the Introduction to Graph Page</li>
+<li>Created the Contact Page</li>
+<li>Created the Growth Page</li>
+</ul>
 </ol>
 <b>Pending Progress</b>
 <ul>
@@ -110,7 +119,6 @@ Here it lists all the team members of the Cross Country Coders and the contribut
     <ul>
     <li>Created the SideNav Bar Component for the Application</li>
     <li>Created the CSS Designs that applies for most of the pages</li>
-    <li>Added 2-click sign out for logged in users</li>
     </ul>
   * Current (June 13)
     <ul>
