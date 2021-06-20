@@ -85,7 +85,6 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
 <ul>
 <li>Create the other lesson pages filled with topics and recommended videos.</li>
 <li>Update the design of NavBar to have a clean side dropdown option.</li>
-<li>Create a Contact Page that is theoretically functional.</li>
 </ul>
 
 ## Developer's Guide
