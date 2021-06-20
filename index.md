@@ -104,12 +104,14 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 * [Jerome Gallego](https://alohajerome.github.io/)
   * Contact: gallego6@hawaii.edu
   * Interests: Software Engineering
-  * New Completion (June 13)  
+  * New Completion (June 19)  
     * Created the Profile Page
+    * Fixed erros with Profile Page
     * Created the Mock Up designs for the Contact Page
-  * Current (June 13)
-    * Working on making the Contact Page to be more functional.
-  * Next (June 13)
+    * Fixed most of errors on the mock-up version of the Contact Page
+  * Current (June 19)
+    * Working on adding some information about why someone should contact the admin
+  * Next (June 19)
     * Finding Problems that might be good on placing to the website. 
     
 * [Christian Jensen](https://christianjensenv.github.io/)
@@ -132,15 +134,16 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 * [Jun Miao](https://junm1ao.github.io/)
    * Contact: junmiao@hawaii.edu
    * Interests: Software Engineering, Database Management, Mobile App Development
-   * New Completion (June 13):
+   * New Completion (June 19):
      * Created a stronger faker user generator system.
      * Created the Login/Register Modal.   
-     *  Fixed the User List Page for Admin to display the user count on the page itself     and the side nav bar
-     *  Fixed the Edit Profile Page into Modal.
+     * Fixed the User List Page for Admin to display the user count on the page itself     and the side nav bar
+     * Fixed the Edit Profile Page into Modal.
      * Fixed the file and improved up on ESLint errors.
-  * Current (June 13)
-    * Creating the Lesson Pages.
-  * Next (June 13) 
+     * Created the Runtime Pre-req lesson page.
+  * Current (June 19)
+    * Creating Lesson Pages.
+  * Next (June 19) 
     * Finding good sample problems to place on the lesson page.
 * [Shinya Saito](https://saitoshi.github.io/)
   * Contact: saitoshi@hawaii.edu
