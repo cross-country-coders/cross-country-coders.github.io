@@ -104,7 +104,7 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 * [Jerome Gallego](https://alohajerome.github.io/)
   * Contact: gallego6@hawaii.edu
   * Interests: Software Engineering
-  * New Completion (June 13)  
+  * New Completion (June 19)  
     * Created the Profile Page
     * Fixed erros with Profile Page
     * Created the Mock Up designs for the Contact Page
