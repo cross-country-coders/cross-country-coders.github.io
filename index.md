@@ -145,7 +145,7 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 * [Shinya Saito](https://saitoshi.github.io/)
   * Contact: saitoshi@hawaii.edu
   * Interests: Software Engineering, Mathematical Teaching, Japanese and English Translations, Design
-  * New Completion (June 13)
+  * New Completion (June 20)
     * Created the UserInfo Collection 
     * Create the Basic User Fake Generator 
     * Created the Landing Page 
@@ -153,7 +153,11 @@ Here it lists all the team members of the Cross Country Coders and the contribut
     * Created the Proof Writing Lesson Page 
     * Created the Rough Contact Page
     * Created the Home Page when users login
-  * Current (June 13)
-    * Creating the PreReq Material Lesson Pages for Algorithms
-  * Next (June 13)
-    * Creating the Pages for the other lessons and topics covered in Algorithm
+    * Creating the PreReq Material Lesson Pages for Algorithms  
+    * Creating the Single Short Path Page
+    * Creating the Basic ADT Page
+    * Creating the Introduction to Graph Page  
+  * Current (June 20)
+    * Create the MST Page 
+  * Next (June 20)
+    * Creating the Pages for other algorithms related to Graphs.
