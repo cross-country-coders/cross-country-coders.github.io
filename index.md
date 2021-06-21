@@ -121,7 +121,7 @@ Here it lists all the team members of the Cross Country Coders and the contribut
     * Add 2 step sign out
     * Created the CSS Designs that applies for most of the pages
     * Finding practice problems.
-    * Added logo to website tab
+    * Create and add logo to website tab
   * Current (June 19)
     * Creating a simple level up system
     * Add prereq dropdown for sidebar
