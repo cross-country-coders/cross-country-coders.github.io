@@ -187,5 +187,10 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 <b>Difficulty</b>
 <ul>
 <li>The assignment was difficult because all the team members were in different locations with some having a different time zone compared to Hawaii.</li>
-<li></li>
+<li>Creating different problems and set of notes were challenging.</li>
+</ul>
+<b>Take Back</b>
+<ul>
+<li>Since the application was Algorithm lesson based, it gave the creators a good review on topics learned in algorithm such as Red Black Tree, Sorting Algorithms, etc.</li>
+<li>Probably should have created a stronger schedule as the schedule that was followed may have been too weak.</li>
 </ul>
