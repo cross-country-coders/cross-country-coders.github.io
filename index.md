@@ -1,12 +1,21 @@
 <h2> Cross Country Coders </h2>
 <hr>
 <h2> Table Of Contents </h2>
+* [IMPORTANT LINKS](#important-links)
 * [OVERVIEW](#overview)
 * [PROJECT](#project)
 * [USER GUIDE](#user-guide)
 * [PEER REVIEW](#user-review)
 * [DEVELOPER'S GUIDE](#develop's-guide)
 * [TEAM MEMBERS](#team-members)
+
+## Important Links
+<ul>
+<li>Link to the <a href ="https://github.com/cross-country-coders/algo-trix">GitHub Repository</a></li>
+<li>Link to the <a href="https://github.com/cross-country-coders/algo-trix/releases/tag/0.2">Release Version</a></li>
+<li>Link to the <a href ="https://github.com/cross-country-coders/algo-trix/wiki">Wiki</a></li>
+<li>Link to the <a href ="https://github.com/cross-country-coders/algo-trix/blob/master/doc/ICS427A-5_%20CrossCountryCoders.pdf">Documentation</a></li>
+</ul>
 
 ## OVERVIEW
 The application Algo-Trix provides college or high school students with additional assistance to Algorithms outside of a textbook. It contains a list of different topics with mini explanation and study tips. It will also contain some sample problems and example problems.
@@ -145,7 +154,7 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 * [Shinya Saito](https://saitoshi.github.io/)
   * Contact: saitoshi@hawaii.edu
   * Interests: Software Engineering, Mathematical Teaching, Japanese and English Translations, Design
-  * New Completion (June 20)
+  * New Completion (June 27)
     * Created the UserInfo Collection 
     * Create the Basic User Fake Generator 
     * Created the Landing Page 
@@ -156,8 +165,13 @@ Here it lists all the team members of the Cross Country Coders and the contribut
     * Creating the PreReq Material Lesson Pages for Algorithms  
     * Creating the Single Short Path Page
     * Creating the Basic ADT Page
-    * Creating the Introduction to Graph Page  
-  * Current (June 20)
-    * Create the MST Page 
+    * Creating the Introduction to Graph Page
+    * Creating the MST Page 
+    * Creating the Binary Tree Page
+    * Create 2-3-4 and Red Black Tree  
+  * Current (June 27)
+    * Create a Stronger Sets of Porblems 
   * Next (June 20)
     * Creating the Pages for other algorithms related to Graphs.
+    
+<h3>Closing Thoughts</h3>
