@@ -89,11 +89,20 @@ Here is a <a href ="https://github.com/cross-country-coders/algo-trix/projects/1
 <li>Created the Contact Page</li>
 <li>Created the Growth Page</li>
 </ul>
-</ol>
-<b>Pending Progress</b>
+<li><b>Week 5 (June 20)</b></li>
 <ul>
-<li>Create the other lesson pages filled with topics and recommended videos.</li>
-<li>Update the design of NavBar to have a clean side dropdown option.</li>
+<li>Fixed the documentation of the application</li>
+<li>Fixed the SideNavBar for the Admin User</li>
+<li>Created the Red Black Tree and 2,3,4 Tree Page</li>
+<li>Create a Binary Search Tree Page</li>
+<li>Created the Logo for the Application</li>
+</ul>
+</ol>
+<b>Future Updates</b>
+<ul>
+<li>Create a level system based on the lesson accomplishment</li>
+<li>Create a book marking system where users can book mark their progress or lessons to look back again</li>
+<li>Create video lessons unique to the application.</li>
 </ul>
 
 ## Developer's Guide
@@ -170,8 +179,13 @@ Here it lists all the team members of the Cross Country Coders and the contribut
     * Creating the Binary Tree Page
     * Create 2-3-4 and Red Black Tree  
   * Current (June 27)
-    * Create a Stronger Sets of Porblems 
+    * Create a Stronger Sets of Problems
   * Next (June 20)
     * Creating the Pages for other algorithms related to Graphs.
     
 <h3>Closing Thoughts</h3>
+<b>Difficulty</b>
+<ul>
+<li>The assignment was difficult because all the team members were in different locations with some having a different time zone compared to Hawaii.</li>
+<li></li>
+</ul>
