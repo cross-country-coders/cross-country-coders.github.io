@@ -149,16 +149,18 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 * [Jun Miao](https://junm1ao.github.io/)
    * Contact: junmiao@hawaii.edu
    * Interests: Software Engineering, Database Management, Mobile App Development
-   * New Completion (June 19):
+   * New Completion (June 27):
      * Created a stronger faker user generator system.
      * Created the Login/Register Modal.   
-     * Fixed the User List Page for Admin to display the user count on the page itself     and the side nav bar
+     * Fixed the User List Page for Admin to display the user count on the page itself and the side nav bar
      * Fixed the Edit Profile Page into Modal.
      * Fixed the file and improved up on ESLint errors.
      * Created the Runtime Pre-req lesson page.
-  * Current (June 19)
+     * Created the Github Wiki Page
+     * Merge some components into the landing page
+  * Current (June 27)
     * Creating Lesson Pages.
-  * Next (June 19) 
+  * Next (June 27) 
     * Finding good sample problems to place on the lesson page.
 * [Shinya Saito](https://saitoshi.github.io/)
   * Contact: saitoshi@hawaii.edu
