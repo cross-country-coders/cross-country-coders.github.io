@@ -134,17 +134,19 @@ Here it lists all the team members of the Cross Country Coders and the contribut
 * [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
   * Interests: Software Engineering, Video Game Development
-  * New Completion (June 19):
+  * New Completion (June 27):
     * Created the SideNav Bar Component for the Application
     * Add 2 step sign out
     * Created the CSS Designs that applies for most of the pages
     * Finding practice problems.
     * Create and add logo to website tab
-  * Current (June 19)
     * Creating a simple level up system
     * Add prereq dropdown for sidebar
-  * Next (June 19)
+  * Current (June 27)
     * Connecting level up to user
+    * Looking for any needed visual improvments
+  * Next (June 27)
+     * Looking for sample problems for the website
     
 * [Jun Miao](https://junm1ao.github.io/)
    * Contact: junmiao@hawaii.edu
