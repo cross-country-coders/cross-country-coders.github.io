@@ -126,10 +126,11 @@ Here it lists all the team members of the Cross Country Coders and the contribut
     * Fixed erros with Profile Page
     * Created the Mock Up designs for the Contact Page
     * Fixed most of errors on the mock-up version of the Contact Page
-  * Current (June 19)
-    * Working on adding some information about why someone should contact the admin
-  * Next (June 19)
-    * Finding Problems that might be good on placing to the website. 
+    * Normal clean up on javasript code
+  * Current (June 27)
+    * Adding the drop down for why you should contact the admin
+  * Next (June 27)
+    * Continue to clean up javascript code on files that are not being used
     
 * [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
